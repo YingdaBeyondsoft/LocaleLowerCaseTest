@@ -1,0 +1,14 @@
+{
+   "locales":[  
+      "zh-cn",
+      "de-de"
+   ],
+   "files":[  
+      "test/*.md",
+      "test/**/*.md"
+   ],
+   "includeDependencies":true,
+   "autoPush":true,
+   "xliffVersion":"1.2",
+   "autoHandbackNoChangeXliff":true
+}
